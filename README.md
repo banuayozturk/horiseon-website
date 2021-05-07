@@ -17,8 +17,7 @@ I noticed that, more improvement (especially functionality) can be applied to th
 
 
 ## Screenshot
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./
-Develop/assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Develop/assets/images/01-html-css-git-homework-demo.png)
 
 
 ## Contact Me
