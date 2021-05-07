@@ -1,6 +1,6 @@
 # horiseon-website
 
-## Deployed Application: 
+## Deployed Application: https://banuayozturk.github.io/horiseon-website/
 
 ## Description: 
 In this task,  I was responsible of refactoring the code without changing the functionality of the Horiseon Social Solutions Website.
